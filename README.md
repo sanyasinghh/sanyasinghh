@@ -13,7 +13,7 @@
 
 <!-- Replace profile.jpg with your actual image file -->
 <p align="left">
-  <img align="right" alt="Sanya" width="240" src="./profile.jpg" />
+  <img align="right" alt="Sanya" width="240" src="./_.jpeg" />
 </p>
 
 - 📚 Literature fed my mind, now code feeds my curiosity.  
